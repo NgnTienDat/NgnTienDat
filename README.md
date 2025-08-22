@@ -2,9 +2,13 @@
 👋 About Me
 
 Hi, I’m Nguyen Tien Dat, a Computer Science student passionate about backend development and distributed systems.
+
 🔭 Currently working on a Crypto Exchange Simulation project, applying WebSocket, Redis, and real-time order book management.
+
 🛠 Exploring CI/CD pipelines and containerization with Docker to automate deployment and improve development workflow.
+
 💡 Interested in system design, high-performance applications, and scalable architectures.
+
 🌱 Actively learning Spring Boot, ReactJS, and database optimization.
 
 📫 Reach me at: tie.dat2004@gmail.com
