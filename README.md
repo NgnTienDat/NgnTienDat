@@ -4,7 +4,7 @@ Hi, I’m Nguyen Tien Dat, a Computer Science student passionate about backend d
 
 - Exploring CI/CD pipelines and containerization with Docker to automate deployment and improve development workflow.
 
-- Interested in system design, high-performance applications, and scalable architectures.
+- Interested in System Design, high-performance applications, and scalable architectures.
 
 - Actively learning Spring Boot, ReactJS, and database optimization.
 
