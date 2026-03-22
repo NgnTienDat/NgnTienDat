@@ -1,12 +1,9 @@
-# 💫About Me :
+#  ✋🏻 Hi, I'm Dat:
 
-Hi, I’m Nguyen Tien Dat, a Computer Science student passionate about backend development and distributed systems.
+### 🚀 Computer Science Student | Software Engineering
 
-- Exploring CI/CD pipelines and containerization with Docker to automate deployment and improve development workflow.
-
-- Interested in System Design, high-performance applications, and scalable architectures.
-
-- Actively learning Spring Boot, ReactJS, and database optimization.
+* **Core:** Passionate about system design, high-performance applications, and scalable architectures.
+* **Current Focus:** Exploring the design and development of AI-powered personal assistant agents.
 
 📫 Reach me at: tie.dat2004@gmail.com
 
